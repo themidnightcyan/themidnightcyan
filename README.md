@@ -1,3 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hi, I'm Clove Twilight!</h1>
+  <p><b>Developer • Linux Enthusiast • Minecraft Modder</b></p>
+  
+  ![My Discord](https://status.butterfly-network.win/api/user/1394668171415523351?aboutMe=Proud+syster+of+Clove+%28%40estrogenhrt%29%0AWriting+a+book...%0ALover+of+loud+tunes%2C+literature+%26+pixel+blocks%2C+just+a+trans+gamer+girl+vibing+through+the+chaos&theme=nitroDark&primaryColor=2770e3&accentColor=0e203d&width=700)
+  
+</div>
 
-🪻 I'm Athena! I'm kinda new to coding, and my Syster is teaching me! I hope to learn more!
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=themidnightcyan&theme=synthwave&show_icons=true" alt="themidnightcyan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themidnightcyan&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+# Contributors
+<a href="https://github.com/CloveTwilight3/clovetwilight3/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CloveTwilight3/clovetwilight3" />
+</a>
